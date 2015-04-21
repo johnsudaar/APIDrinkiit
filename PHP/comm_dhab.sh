@@ -9,4 +9,4 @@ echo "On commande un sandwich poulet burger :"
 $cmdpath $username $password sandwich "Poulet Burger"
 
 echo "On commande un coca : "
-$cmdpath $username $password soda "coca"
+$cmdpath $username $password sodas "coca"
